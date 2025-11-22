@@ -58,7 +58,7 @@ Redeemable directly through a **Farcaster MiniApp**.
 ### 1. Clone
 
 ```bash
-git clone https://github.com/yourusername/castkey
+git clone https://github.com/Nakshatra05/castkey
 cd castkey
 ```
 
